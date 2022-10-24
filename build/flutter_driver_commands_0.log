@@ -1,0 +1,155 @@
+2022-09-14 21:51:35.980613 >>> {command: get_health}
+2022-09-14 21:51:37.689577 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-14 21:52:58.929334 >>> {command: get_health}
+2022-09-14 21:53:00.518792 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:45:39.473822 >>> {command: get_health}
+2022-09-20 20:45:41.142702 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:58:29.268871 >>> {command: get_health}
+2022-09-20 20:58:31.175212 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:58:31.211722 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-09-20 20:58:31.481309 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:58:31.484168 >>> {command: waitFor, finderType: ByText, text: }
+2022-09-20 20:58:31.497257 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:58:31.499124 >>> {command: enter_text, text: test@test.com}
+2022-09-20 20:58:31.543377 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:58:31.546476 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-09-20 20:58:31.759484 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:06:25.875488 >>> {command: get_health}
+2022-09-20 21:06:27.708605 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:06:27.735959 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-09-20 21:06:27.961510 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:06:27.964909 >>> {command: waitFor, finderType: ByText, text: }
+2022-09-20 21:06:27.978251 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:06:27.983059 >>> {command: enter_text, text: test@test.com}
+2022-09-20 21:06:28.003455 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:06:28.004675 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-09-20 21:06:28.009346 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:18:32.996168 >>> {command: get_health}
+2022-09-20 21:18:34.266324 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:18:34.295324 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-09-20 21:18:34.488124 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:18:34.491939 >>> {command: waitFor, finderType: ByText, text: }
+2022-09-20 21:18:34.504812 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:18:34.510740 >>> {command: enter_text, text: test@test.com}
+2022-09-20 21:18:34.538180 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 21:18:34.541090 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-09-20 21:18:34.545749 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:16:59.451222 >>> {command: get_health}
+2022-10-24 22:17:01.040345 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.061954 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-10-24 22:17:01.274887 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.277226 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:17:01.517294 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.518937 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:17:01.543591 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.544399 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:17:01.590389 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.592357 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldPhone, keyValueType: String}
+2022-10-24 22:17:01.638815 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.639609 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:17:01.643922 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.644431 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:17:01.650189 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.650696 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:17:01.658934 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.659421 >>> {command: enter_text, text: 88005553535}
+2022-10-24 22:17:01.665338 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.665851 >>> {command: waitFor, finderType: ByText, text: 88005553535}
+2022-10-24 22:17:01.873206 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.875949 >>> {command: tap, finderType: ByText, text: Отправить}
+2022-10-24 22:17:01.955123 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:17:01.957657 >>> {command: get_text, finderType: ByText, text: Добро пожаловать}
+2022-10-24 22:17:02.207936 <<< {isError: false, response: {text: Добро пожаловать}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:13.356392 >>> {command: get_health}
+2022-10-24 22:19:14.566942 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.586257 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-10-24 22:19:14.739329 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.741418 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:19:14.750415 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.751805 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:19:14.767775 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.768364 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:19:14.771814 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.773338 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldPhone, keyValueType: String}
+2022-10-24 22:19:14.798362 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.799121 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:19:14.811349 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.811959 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:19:14.821353 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.823708 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:19:14.832926 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.833783 >>> {command: enter_text, text: 88005553535}
+2022-10-24 22:19:14.838810 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.839313 >>> {command: waitFor, finderType: ByText, text: 88005553535}
+2022-10-24 22:19:14.843923 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.846163 >>> {command: tap, finderType: ByText, text: Отправить}
+2022-10-24 22:19:14.912566 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:19:14.915891 >>> {command: get_text, finderType: ByText, text: Добро пожаловать}
+2022-10-24 22:19:15.782320 <<< {isError: false, response: {text: Добро пожаловать}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:01.493429 >>> {command: get_health}
+2022-10-24 22:27:02.784120 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:02.810641 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-10-24 22:27:02.981969 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:02.983541 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:27:02.992101 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:02.994338 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:27:03.012614 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:03.013006 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:27:03.017433 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:03.018807 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldPhone, keyValueType: String}
+2022-10-24 22:27:03.052869 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:03.053318 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:27:03.059211 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:03.059744 >>> {command: enter_text, text: qwer8805553535}
+2022-10-24 22:27:03.074733 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:03.075225 >>> {command: waitFor, finderType: ByText, text: qwer88005553535}
+2022-10-24 22:27:33.059962 >>> {command: tap, finderType: ByText, text: Отправить}
+2022-10-24 22:27:33.088075 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:27:33.090861 >>> {command: get_text, finderType: ByText, text: Добро пожаловать}
+2022-10-24 22:27:33.507085 <<< {isError: false, response: {text: Добро пожаловать}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:47.938121 >>> {command: get_health}
+2022-10-24 22:28:49.300813 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.312940 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-10-24 22:28:49.526746 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.528564 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:28:49.536578 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.538846 >>> {command: enter_text, text: test@test.com}
+2022-10-24 22:28:49.566931 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.567779 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 22:28:49.572178 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.574003 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldPhone, keyValueType: String}
+2022-10-24 22:28:49.610392 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.611525 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 22:28:49.627017 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.628081 >>> {command: enter_text, text: qwer8805553535}
+2022-10-24 22:28:49.644124 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:28:49.644838 >>> {command: waitFor, finderType: ByText, text: qwer88005553535}
+2022-10-24 22:29:19.646384 >>> {command: tap, finderType: ByText, text: Отправить}
+2022-10-24 22:29:19.698719 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 22:29:19.703646 >>> {command: get_text, finderType: ByText, text: Добро пожаловать}
+2022-10-24 22:29:20.066428 <<< {isError: false, response: {text: Добро пожаловать}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:38.776354 >>> {command: get_health}
+2022-10-24 23:06:40.130249 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.149911 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldEmail, keyValueType: String}
+2022-10-24 23:06:40.315865 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.318274 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 23:06:40.327530 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.328921 >>> {command: enter_text, text: test@test.com}
+2022-10-24 23:06:40.345190 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.345617 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 23:06:40.349335 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.349884 >>> {command: enter_text, text: test@test.com}
+2022-10-24 23:06:40.353334 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.353747 >>> {command: waitFor, finderType: ByText, text: test@test.com}
+2022-10-24 23:06:40.357275 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.359131 >>> {command: tap, finderType: ByValueKey, keyValueString: fieldPhone, keyValueType: String}
+2022-10-24 23:06:40.384372 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.384971 >>> {command: waitFor, finderType: ByText, text: }
+2022-10-24 23:06:40.393490 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.394009 >>> {command: enter_text, text: 8805553535}
+2022-10-24 23:06:40.409805 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:06:40.410366 >>> {command: waitFor, finderType: ByText, text: 88005553535}
+2022-10-24 23:07:10.398033 >>> {command: tap, finderType: ByText, text: Отправить}
+2022-10-24 23:07:10.423406 <<< {isError: false, response: {}, type: _extensionType, method: ext.flutter.driver}
+2022-10-24 23:07:10.426593 >>> {command: get_text, finderType: ByText, text: Добро пожаловать}
+2022-10-24 23:07:10.827173 <<< {isError: false, response: {text: Добро пожаловать}, type: _extensionType, method: ext.flutter.driver}

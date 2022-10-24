@@ -1,0 +1,6 @@
+2022-09-14 21:51:37.897240 >>> {command: get_health}
+2022-09-14 21:51:37.905710 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-14 21:53:00.694723 >>> {command: get_health}
+2022-09-14 21:53:00.710140 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2022-09-20 20:45:41.332557 >>> {command: get_health}
+2022-09-20 20:45:41.391132 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
